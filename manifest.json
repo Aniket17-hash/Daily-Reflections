@@ -1,0 +1,10 @@
+{
+  "name": "Daily Reflections - Personal Journal App",
+  "short_name": "Daily Reflections",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait"
+  
+}
